@@ -1,0 +1,1 @@
+// go run ./main.go ./calculator.go ./GalleryApp.go ./TextEditor.go ./WeatherApp.go ./clock.go
